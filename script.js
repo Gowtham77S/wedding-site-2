@@ -54,7 +54,7 @@
 
 // ========== Countdown Timer ==========
 (function () {
-  const weddingDate = new Date('2026-05-02T09:30:00+05:30').getTime();
+  const weddingDate = new Date('2026-05-02T19:30:00+05:30').getTime();
 
   function updateCountdown() {
     const now = Date.now();
